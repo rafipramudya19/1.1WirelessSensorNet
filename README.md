@@ -15,13 +15,13 @@ Selain itu, ESP-NOW mempunyai batasan sebagai berikut.<br />
   b) Untuk komunikasi tidak terenkripsi, jumlah maksimal perangkat adalah 20 unit, termasuk dengan yang terenkripsi. <br />
 ESP-NOW mempunyai 2 tipe jaringan, yaitu One-Way Communication dan Two-Way Communication. One-Way Communication terbagi menjadi Point-to-Point, One-to-Many Communication dan Many-to-One Communication. Sementara Two-Way Communication terbagi menjadi Point-to-Point dan Mesh Communication.
 
-**ALAT DAN BAHAN**
+#### II. ALAT DAN BAHAN
 1) ESP32
 2) Breadboard
 3) Kabel jumper
 4) Resistor 10K Ohm
 
-**HASIL KELUARAN**
+#### III. HASIL KELUARAN
 
 **1) Memperoleh MAC Address ESP32 Receiver**
 ![1](https://user-images.githubusercontent.com/121251478/210923730-e9bb5a41-027b-4b43-8279-3a181e8a782a.png)
@@ -79,19 +79,3 @@ Rangkaian :
 
 Tampilan Serial Monitor :
 ![13](https://user-images.githubusercontent.com/121251478/210924103-2ad8e28e-7360-4a26-a15b-72ccc61a92f8.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-#� �1�.�1�W�i�r�e�l�e�s�s�S�e�n�s�o�r�N�e�t�
-�
-�
