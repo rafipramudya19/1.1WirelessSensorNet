@@ -27,13 +27,13 @@ ESP-NOW mempunyai 2 tipe jaringan, yaitu One-Way Communication dan Two-Way Commu
 ![1](https://user-images.githubusercontent.com/121251478/210923730-e9bb5a41-027b-4b43-8279-3a181e8a782a.png)
 
 **2) ESP-NOW One-Way Point-to-Point Communication** <br />
+`MAC Address Tx : 24:0A:C4:C6:06:54`
 ![2](https://user-images.githubusercontent.com/121251478/210923759-fa750ccd-2396-4e88-871e-44fc03829141.png)
 
 ![3](https://user-images.githubusercontent.com/121251478/210923799-3b44ff84-2493-47ef-8b04-28130c86cd99.png)
 
-![4](https://user-images.githubusercontent.com/121251478/210923812-164c82ab-ce84-453b-9678-39dff3a56642.png)
-
 `MAC Address Rx : 30:AE:A4:7A:8F:B8`
+![4](https://user-images.githubusercontent.com/121251478/210923812-164c82ab-ce84-453b-9678-39dff3a56642.png)
 
 ![5](https://user-images.githubusercontent.com/121251478/210923856-afb79a09-270b-497e-97c7-282993c2eb7e.png)
 
