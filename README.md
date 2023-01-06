@@ -39,8 +39,6 @@ ESP-NOW mempunyai 2 tipe jaringan, yaitu One-Way Communication dan Two-Way Commu
 
 ![6](https://user-images.githubusercontent.com/121251478/210923867-5de1496c-bed6-4e85-8553-1ebe7c13a3d7.png)
 
-![7](https://user-images.githubusercontent.com/121251478/210923877-2ebe7cfb-27b6-4db7-ac11-8d6d466b5f18.png)
-
 **3) ESP-NOW One-Way, One-to-Many Communication** <br />
 Mengirim Pesan yang Sama Ke Beberapa Board ESP32 MAC Address yang digunakan: <br />
 `MAC Sender : 3C:71:BF:F1:4B:08`  <br />
@@ -48,13 +46,10 @@ Mengirim Pesan yang Sama Ke Beberapa Board ESP32 MAC Address yang digunakan: <br
 `MAC Receiver 2 : 24:0A:C4:C6:06:54` <br />
 `MAC Receiver 3 : 30:AE:A4:7A:8F:B8` <br />
 Pada Receiver 3, Hasilnya adalah sebagai berikut.
-![8](https://user-images.githubusercontent.com/121251478/210923911-54db9750-b336-4c11-a93a-bc017ca03325.png)
-
+![7](https://user-images.githubusercontent.com/121251478/210923877-2ebe7cfb-27b6-4db7-ac11-8d6d466b5f18.png)
 
 Pada Receiver 3 saat dimatikan board receiver, Hasilnya adalah sebagai berikut.
-
-![9](https://user-images.githubusercontent.com/121251478/210923919-3dbac55e-1252-4311-9ec2-ed5c53e2a84c.png)
-
+![8](https://user-images.githubusercontent.com/121251478/210923911-54db9750-b336-4c11-a93a-bc017ca03325.png)
 
 **4) ESP-NOW One-Way, Many-to-One Communication ** <br />
 MAC Address ESP32 yang digunakan :
